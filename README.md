@@ -1,4 +1,4 @@
-# Magang-AI-Komatik-2023
+# Penugasan Calon Staff DMAI Komatik 2024
 
 ## Introduction
 Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-temen join nih di divisi DMAI, kita mau memberikan sebuah kasus yang perlu teman-teman selesaikan. Nah berikut beberapa _rules_ yang perlu teman-teman perhatikan
@@ -7,8 +7,7 @@ Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-te
   3. Bahasa Pemrograman yang dapat digunakan adalah **Python/R**
   4. Dataset yang ada kemudian **Visualisasikan** sesuai dengan kebutuhan
   5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya
-  6. Hasil visualisasi dan pemodelannya harus dibuat berupa **Power Point** beserta penjelasannya/interpretasinya.
-  7. Notebooknya dicantumkan dalam pengumpulan power point
+  6. Hasil visualisasi dan pemodelannya harus dibuat berupa **Power Point** beserta penjelasannya/interpretasinya
 
 Nah setelah baca _rules_ yang ada diatas, kita mau kasih nih permasalahan yang teman-teman perlu selesaikan. 
 
@@ -22,4 +21,9 @@ Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digun
 ![Gambar](https://github.com/DaffaElgo/Penugasan_DMAI24/blob/main/Images/image.png)
 
 ## Format Pengumpulan
-Pengumpulan hasdapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
+Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi 
+1. PPT berisi visualisasi, model, dan interpretasi
+2. Syntax yang digunakan dengan format **Syntax_nama lengkap**
+3. CSV hasil test dengan format **test_submission_nama lengkap**
+
+Pengumpulan `rar` dapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
