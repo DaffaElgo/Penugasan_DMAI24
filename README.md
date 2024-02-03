@@ -6,10 +6,9 @@ Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-te
   2. Pengerjaan dapat dilakukan secara **Individu**
   3. Bahasa Pemrograman yang dapat digunakan adalah **Python/R**
   4. Dataset yang ada kemudian **Visualisasikan** sesuai dengan kebutuhan
-  5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya *)
+  5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya
   6. Hasil visualisasi dan/atau pemodelannya harus dibuat berupa **Power Point** beserta penjelasannya/interpretasinya
 
-*) Khusus bagi yang mendaftar sebagai staff, untuk yang mendaftar sebagai anggota bersifat opsional
 Nah setelah baca _rules_ yang ada diatas, kita mau kasih nih permasalahan yang teman-teman perlu selesaikan. 
 
 ## Diskripsi Masalah
@@ -28,9 +27,3 @@ Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi
 3. CSV hasil test dengan format : **Test_Submission_nama lengkap**
 
 Pengumpulan file `rar`dapat melalui _google form_ pendaftaran dengan format : **Tugas_DMAI_nama lengkap**
-
-## Curriculum Vitae
-Format pembuatan CV dibebaskan. Format pengumpulan : **CV_nama lengkap**
-
-## Motivation Letter
-Isi dari Motivation Letter setidaknya memuat pengalaman, motivasi ikut Komatik dan DMAI, serta tujuan yang akan dicapai di Komatik dan DMAI. Format pengumpulan : **Motlet_nama lengkap**
