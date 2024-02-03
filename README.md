@@ -24,8 +24,12 @@ Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digun
 Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi 
 1. PPT berisi visualisasi, model, dan interpretasi dengan format : **PPT_nama lengkap**
 2. Syntax yang digunakan dengan format : **Syntax_nama lengkap**
-3. CSV hasil test dengan format : **test_submission_nama lengkap**
+3. CSV hasil test dengan format : **Test_Submission_nama lengkap**
 
 Pengumpulan `rar`dapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
 
-## CV
+## Curriculum Vitae
+Format pembuatan CV dibebaskan. Format pengumpulan : **CV_nama lengkap**
+
+## Motivation Letter
+Isi dari Motivation Letter setidaknya memuat pengalaman, motivasi ikut Komatik dan DMAI, serta tujuan yang akan dicapai di Komatik dan DMAI. Format : **Motlet_nama lengkap**
