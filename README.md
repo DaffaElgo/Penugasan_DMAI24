@@ -1,4 +1,5 @@
 # Penugasan DMAI Komatik 2024
+![Gambar](https://github.com/DaffaElgo/Penugasan_DMAI_24/blob/main/Images/pantai%20animasi.jpg)
 
 ## Introduction
 Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-temen join nih di divisi DMAI, kita mau memberikan sebuah kasus yang perlu teman-teman selesaikan. Nah berikut beberapa _rules_ yang perlu teman-teman perhatikan
