@@ -22,7 +22,7 @@ Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digun
 
 ## Format Pengumpulan Tugas
 Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi 
-1. Notebook dan Syntax berisi visualisasi, model, dan interpretasi dengan format : **Hasil_nama lengkap**
+1. Notebook/Markdown dan Syntax berisi visualisasi, model, dan interpretasi dengan format : **Hasil_nama lengkap**
 2. CSV hasil test dengan format : **Test_Submission_nama lengkap**
 
 Pengumpulan file `rar`dapat melalui _google form_ pendaftaran dengan format : **Tugas_DMAI_nama lengkap**
