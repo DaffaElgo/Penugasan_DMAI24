@@ -22,7 +22,7 @@ Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digun
 
 ## Format Pengumpulan Tugas
 Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi 
-1. PPT berisi visualisasi, model, dan interpretasi
+1. PPT berisi visualisasi, model, dan interpretasi dengan format **PPT_nama lengkap**
 2. Syntax yang digunakan dengan format **Syntax_nama lengkap**
 3. CSV hasil test dengan format **test_submission_nama lengkap**
 
