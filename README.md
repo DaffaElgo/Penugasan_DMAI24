@@ -17,7 +17,7 @@ Nah setelah baca _rules_ yang ada diatas, kita mau kasih nih permasalahan yang t
 Ridwan adalah seorang anak yang perhatian dan peduli dengan keinginan ibunya, suatu hari beliau memintanya mencari kerang di pantai untuk dibuatkan hidangan _seafood_ spesial. Namun, ibunya meminta untuk mencari kerang dengan umur sekian karena diumur tersebut kerang cenderung lebih lezat. Namun masalah muncul karena ridwan tentunya tidak mengetahui umur kerang yang dikumpulkan tsb. Tetapi dia ingat partnernya 🌚 yang merupakan seorang data scientist di _aquaculture comp_ memiliki data anatomi dari kerang seperti diameter cangkang dll serta data umur kerang. Dengan tekad untuk memberikan yang terbaik untuk ibunya, Ridwan bekerja sama dengan partenrnya untuk membangun model prediksi umur kerang. Oh tidak, model mereka hasilnya masih buruk, bisakah kamu membantu mereka untuk mendapatkan hasil yang lebih baik?
 
 ### Metriks 
-Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digunakan untuk mengukur sejauh mana prediksi umur kerang dari model mendekati nilai sebenarnya. 
+Metrik evaluasi yang digunakan adalah _Root Mean Squared Error_ (RMSE). RMSE digunakan untuk mengukur sejauh mana prediksi umur kerang dari model mendekati nilai sebenarnya. 
 
 ![Gambar](https://github.com/DaffaElgo/Penugasan_DMAI24/blob/main/Images/image.png)
 
