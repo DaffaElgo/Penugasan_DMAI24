@@ -2,12 +2,13 @@
 
 ## Introduction
 Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-temen join nih di divisi DMAI, kita mau memberikan sebuah kasus yang perlu teman-teman selesaikan. Nah berikut beberapa _rules_ yang perlu teman-teman perhatikan
-1. Permasalahan dan Dataset akan diberikan
-2. Pengerjaan dapat dilakukan secara **individu**
-3. Dataset yang ada kemudian **divisualisasikan** sesuai dengan kebutuhan
-4. Setelah itu, dataset tersebut *dimodelkan* dengan machine learning dan evaluasi model
-5. Hasil visualisasi dan pemodelannya harus dibuat berupa power point beserta penjelasannya/interpretasinya.
-6. Notebooknya dicantumkan dalam pengumpulan power point
+  1. Permasalahan dan Dataset akan diberikan
+  2. Pengerjaan dapat dilakukan secara **Individu**
+  3. Bahasa Pemrograman yang dapat digunakan adalah **Python/R**
+  4. Dataset yang ada kemudian **Visualisasikan** sesuai dengan kebutuhan
+  5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya
+  6. Hasil visualisasi dan pemodelannya harus dibuat berupa **Power Point** beserta penjelasannya/interpretasinya.
+  7. Notebooknya dicantumkan dalam pengumpulan power point
 
 Nah setelah baca _rules_ yang ada diatas, kita mau kasih nih permasalahan yang teman-teman perlu selesaikan. 
 
@@ -17,3 +18,8 @@ Ridwan adalah seorang anak yang perhatian dan peduli dengan keinginan ibunya, su
 
 ### Metriks 
 Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digunakan untuk mengukur sejauh mana prediksi umur kerang dari model mendekati nilai sebenarnya. 
+
+![Gambar](https://github.com/DaffaElgo/Penugasan_DMAI24/blob/main/Images/image.png)
+
+## Format Pengumpulan
+Pengumpulan hasdapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
