@@ -20,10 +20,12 @@ Metrik evaluasi yang digunakan adalah Root Mean Squared Error (RMSE). RMSE digun
 
 ![Gambar](https://github.com/DaffaElgo/Penugasan_DMAI24/blob/main/Images/image.png)
 
-## Format Pengumpulan
+## Format Pengumpulan Tugas
 Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi 
 1. PPT berisi visualisasi, model, dan interpretasi
 2. Syntax yang digunakan dengan format **Syntax_nama lengkap**
 3. CSV hasil test dengan format **test_submission_nama lengkap**
 
-Pengumpulan `rar` dapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
+Pengumpulan `rar`dapat melalui _google form_ pendaftaran dengan format **Tugas_DMAI_nama lengkap**
+
+## CV
