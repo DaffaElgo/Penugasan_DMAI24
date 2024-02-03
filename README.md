@@ -3,7 +3,7 @@
 ## Introduction
 Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-temen join nih di divisi DMAI, kita mau memberikan sebuah kasus yang perlu teman-teman selesaikan. Nah berikut beberapa _rules_ yang perlu teman-teman perhatikan
   1. Permasalahan dan Dataset akan diberikan
-  2. Pengerjaan dapat dilakukan secara **Individu**
+  2. Pengerjaan dilakukan secara **Individu**
   3. Bahasa Pemrograman yang dapat digunakan adalah **Python/R**
   4. Dataset yang ada kemudian **Visualisasikan** sesuai dengan kebutuhan
   5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya
