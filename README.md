@@ -26,8 +26,9 @@ Pengumpulan hasil adalah dengan menggunakan file `rar` yang berisi
 1. Notebook/Markdown dan Syntax berisi visualisasi, model, dan interpretasi dengan format : **Hasil_nama lengkap**
 2. CSV hasil test dengan format : **Test_Submission_nama lengkap**
 
-**Note** : **Tidak perlu mengumpulkan Power Point** (Ikut yang ada disini aja)
 
 Pengumpulan file `rar`dapat melalui _google form_ dengan format : **Tugas_DMAI_nama lengkap**
 
-**Note** : Penugasan diatas merupakan penugasan untuk **calon staff** DMAI
+##Catatan
+1. Tidak perlu mengumpulkan Power Point** (Ikut yang ada disini aja)
+2. Penugasan diatas merupakan penugasan untuk **calon staff** DMAI 
