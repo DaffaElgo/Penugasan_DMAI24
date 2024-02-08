@@ -7,8 +7,7 @@ Selamat datang teman-teman di divisi Data Mining & AI. Nah tapi sebelum temen-te
   2. Pengerjaan dilakukan secara **Individu**
   3. Bahasa Pemrograman yang dapat digunakan adalah **Python/R**
   4. Dataset yang ada kemudian **Visualisasikan** sesuai dengan kebutuhan
-  5. Setelah itu, **Modelkan** dataset tersebut dengan machine learning dan evaluasi modelnya
-  6. Hasil visualisasi dan/atau pemodelannya harus dibuat berupa **Notebook/Markdown** beserta penjelasannya/interpretasinya
+  5. Hasil visualisasi harus dibuat berupa **Notebook/Markdown** beserta penjelasannya/interpretasinya
 
 Nah setelah baca _rules_ yang ada diatas, kita mau kasih nih permasalahan yang teman-teman perlu selesaikan. 
 
