@@ -31,5 +31,5 @@ Pengumpulan file `rar`dapat melalui _google form_ dengan format : **Tugas_DMAI_n
 
 ## Catatan
 1. Tidak perlu mengumpulkan Power Point (Ikut yang ada disini aja)
-2. Penugasan diatas merupakan penugasan untuk **calon anggota** DMAI
+2. Penugasan diatas merupakan penugasan untuk **calon anggota** dan **calon staff** DMAI
 3. Kerjakan semampunya ya teman-teman, Kalau misalkan ada yang belum terjawab, kerjain sebisanya terus submit jg boleh. 
